@@ -1,7 +1,7 @@
 
 
-let resultat = prompt("Bonjour");
-console.log(resultat);
+let prénom = prompt("Prénom");
+alert('Bonjour '+prénom)
 
 
 

@@ -1,7 +1,6 @@
+let lastName =prompt('Nom')
+let firstName = prompt('Prénom')
+let city = prompt('Ville')
+alert('Nom:'+ lastName +'\nPrénom:'+firstName +'\nVille:'+city)
 
-
-let Name = prompt('Nom');
-let Prénom = prompt('Prénom');
-let Ville = prompt('Ville')
-
-alert(Name + Prénom + Ville)
+console.log(alert);

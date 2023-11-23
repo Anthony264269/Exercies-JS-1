@@ -1,4 +1,3 @@
-let nom;
-nom = 'anthony';
-alert(nom)
-console.log(alert);
+let nom = ' Anthony';
+alert('Bonjour'+nom)
+console.log(alerte);
