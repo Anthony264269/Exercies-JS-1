@@ -1,9 +1,9 @@
 let pointure = (41);
 let dateDeNaissance = (1986);
 
-function resultat(pointure, dateDeNaissance){
+function resultat(a, b){
 
-    return( (pointure*2)+(5*50)-dateDeNaissance+1776)
+    return( ((a*2)+5)*50-b+1776)
 }
 
 console.log(resultat(pointure, dateDeNaissance));
